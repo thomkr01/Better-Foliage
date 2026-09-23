@@ -4,7 +4,7 @@
 
 **Varied plant life for Minecraft Java Edition**
 
-![Version](https://img.shields.io/badge/version-6.0.0-brightgreen)
+![Version](https://img.shields.io/badge/version-6.0.1-brightgreen)
 ![Minecraft](https://img.shields.io/badge/Minecraft-26.1%20%E2%80%93%2026.2-blue)
 ![Pack format](https://img.shields.io/badge/pack%20format-84%E2%80%9388-lightgrey)
 
@@ -118,6 +118,8 @@ Potted plants use matching custom textures.
 4. In Minecraft, open **Options → Resource Packs** and enable **TchicX's Better Foliage**.
 
 **Recommended:** [Continuity](https://modrinth.com/mod/continuity) (Fabric / NeoForge) for connected sugar cane and glowing lichen.
+
+**Performance tip:** with [More Culling](https://modrinth.com/mod/moreculling), set **Leaves Culling** to **Depth** (amount 2). It hides leaf faces deep inside trees while the bushy canopy looks unchanged.
 
 ## 🧾 Compatibility
 
