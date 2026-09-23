@@ -12,6 +12,8 @@
 
 Better Foliage makes the natural world feel less repetitive. Plants get hand-made variants that the game picks at random, so no two fields, gardens or forests look quite the same, while everything stays true to the vanilla style.
 
+⚡ **Optimized for culling:** all leaf models support face culling, so the pack works with culling mods like [More Culling](https://modrinth.com/mod/moreculling) and hidden leaf faces inside trees are skipped instead of rendered.
+
 ---
 
 ## 🌿 Affected blocks
@@ -119,7 +121,11 @@ Potted plants use matching custom textures.
 
 **Recommended:** [Continuity](https://modrinth.com/mod/continuity) (Fabric / NeoForge) for connected sugar cane and glowing lichen.
 
-**Performance tip:** with [More Culling](https://modrinth.com/mod/moreculling), set **Leaves Culling** to **Depth** (amount 2). It hides leaf faces deep inside trees while the bushy canopy looks unchanged.
+## ⚡ Performance & culling
+
+Every leaf model in the pack supports face culling. Faces pressed against other leaves, logs or solid blocks can be skipped, both in vanilla and with culling mods.
+
+**Recommended:** [More Culling](https://modrinth.com/mod/moreculling) with **Leaves Culling** set to **Depth** (amount 2). It skips leaf faces deep inside trees while the bushy canopy looks unchanged. You don't need a separate leaf-culling mod such as Cull Leaves.
 
 ## 🧾 Compatibility
 
@@ -128,6 +134,7 @@ Potted plants use matching custom textures.
 | Minecraft | Java Edition 26.1 – 26.2 |
 | Pack format | 84 – 88 |
 | Optional mods | Continuity or OptiFine |
+| Culling mods | Supported, optimized for [More Culling](https://modrinth.com/mod/moreculling) |
 
 ## 📜 Changelog
 

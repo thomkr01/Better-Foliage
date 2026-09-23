@@ -4,6 +4,8 @@ All notable changes to TchicX's Better Foliage. This project uses [semantic vers
 
 ## [6.0.1] – 2026-09-23
 
+Optimized for culling: every leaf model now supports face culling, so the pack works with culling mods like More Culling.
+
 ### Fixed
 - Plain (non-bushy) leaf blocks can now be culled. Their faces were missing `cullface`, so they always drew all six sides, even next to other leaves, logs or solid blocks and with culling mods. They look the same, but dense forests render faster.
 
