@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+			{ "model": "block/azure_bluet", "weight":2 },
+			{ "model": "block/azure_bluet_small", "weight":1 },
+			{ "model": "block/azure_bluet_medium", "weight":1 },
+			{ "model": "block/azure_bluet_small2", "weight":1 },
+			{ "model": "block/azure_bluet_tiny", "weight":1 }
+		]
+  }
+}
+

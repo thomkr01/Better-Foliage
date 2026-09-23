@@ -1,0 +1,10 @@
+# OS and editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.psd
+*.xcf
+*.bak
+
+# Built pack zips (attach these to releases instead)
+*.zip
