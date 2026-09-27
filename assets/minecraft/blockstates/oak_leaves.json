@@ -1,4 +1,5 @@
 {
+    "credit": "Made by TchicX for TchicX's Better Foliage",
     "variants": {
         "distance=1": [
 		{ "model": "block/oak_leaves_bushy", "weight":2 }, 

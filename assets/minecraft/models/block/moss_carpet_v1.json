@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by TchicX for TchicX's Better Foliage",
 	"parent": "minecraft:block/carpet",
 	"texture_size": [32, 32],
 	"textures": {

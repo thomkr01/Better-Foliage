@@ -1,4 +1,5 @@
 {
+    "credit": "Made by TchicX for TchicX's Better Foliage",
     "parent": "block/cross",
     "textures": {
         "cross": "block/cornflower_small2"

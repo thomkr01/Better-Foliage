@@ -1,4 +1,5 @@
 {
+  "credit": "Made by TchicX for TchicX's Better Foliage",
   "parent": "minecraft:block/cross_emissive",
   "textures": {
     "cross": "minecraft:block/firefly_bush",

@@ -7,6 +7,7 @@ All notable changes to TchicX's Better Foliage. This project uses [semantic vers
 ### Changed
 - Moss Carpet renders faster: removed 256 invisible faces (on zero-thickness blades) from its main model, cutting it from 414 to 158 faces. It looks the same.
 - Tidied the leaf blockstates: each tree now has a single variant list instead of the same list repeated for every leaf distance. Oak keeps its own list for leaves next to logs, which are slightly less bushy on purpose. No visual change.
+- Every model and blockstate file now carries a "Made by TchicX for TchicX's Better Foliage" credit label (replacing the old "Made with Blockbench" ones). The OptiFine/Continuity properties files have it as a comment.
 
 ## [6.0.1] – 2026-09-23
 

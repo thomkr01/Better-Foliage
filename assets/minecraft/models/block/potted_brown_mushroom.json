@@ -1,4 +1,5 @@
 {
+  "credit": "Made by TchicX for TchicX's Better Foliage",
   "parent": "minecraft:block/flower_pot_cross",
   "textures": {
     "plant": "minecraft:block/brown_mushroom"

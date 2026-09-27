@@ -1,4 +1,5 @@
 {
+    "credit": "Made by TchicX for TchicX's Better Foliage",
     "variants": {
         "age=0": { "model": "block/carrots_stage0" },
         "age=1": { "model": "block/carrots_stage0" },

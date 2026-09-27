@@ -1,4 +1,5 @@
 {
+  "credit": "Made by TchicX for TchicX's Better Foliage",
   "variants": {
     "": [
 			{ "model": "block/warped_fungus", "weight":2 },
