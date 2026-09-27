@@ -2,6 +2,15 @@
 
 All notable changes to TchicX's Better Foliage. This project uses [semantic versioning](https://semver.org/).
 
+## [6.0.2] – 2026-09-27
+
+### Changed
+- Moss Carpet renders faster: removed 256 invisible faces (on zero-thickness blades) from its main model, cutting it from 414 to 158 faces. It looks the same.
+- Tidied the leaf blockstates: each tree now has a single variant list instead of the same list repeated for every leaf distance. No visual change.
+
+### Fixed
+- Oak leaves next to logs used a slightly different variant weighting than the rest of the tree; they now match.
+
 ## [6.0.1] – 2026-09-23
 
 Optimized for culling: every leaf model now supports face culling, so the pack works with culling mods like More Culling.

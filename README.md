@@ -4,7 +4,7 @@
 
 **Varied plant life for Minecraft Java Edition**
 
-![Version](https://img.shields.io/badge/version-6.0.1-brightgreen)
+![Version](https://img.shields.io/badge/version-6.0.2-brightgreen)
 ![Minecraft](https://img.shields.io/badge/Minecraft-26.1%20%E2%80%93%2026.2-blue)
 ![Pack format](https://img.shields.io/badge/pack%20format-84%E2%80%9388-lightgrey)
 
