@@ -97,6 +97,8 @@ All leaves are **bushy**: extra leaf planes reach past the block edge for a full
 | Warped Roots | 3 |
 | Hanging Roots | 18 |
 
+**Mooshrooms:** the mushrooms on their backs use the pack's mushroom textures with [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) or OptiFine.
+
 ### ✨ Other plants
 
 | Block | Variants | Notes |
