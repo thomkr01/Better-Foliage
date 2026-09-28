@@ -2,6 +2,14 @@
 
 All notable changes to TchicX's Better Foliage. This project uses [semantic versioning](https://semver.org/).
 
+## [6.1.0] – 2026-09-28
+
+### Added
+- Bushy leaves for Orange, Yellow and Red Poplar leaves (Minecraft 26.3).
+
+### Changed
+- Updated for Minecraft 26.1 – 26.3 (pack format 84–97.1).
+
 ## [6.0.2] – 2026-09-27
 
 ### Changed

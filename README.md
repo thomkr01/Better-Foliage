@@ -4,9 +4,9 @@
 
 **Varied plant life for Minecraft Java Edition**
 
-![Version](https://img.shields.io/badge/version-6.0.2-brightgreen)
-![Minecraft](https://img.shields.io/badge/Minecraft-26.1%20%E2%80%93%2026.2-blue)
-![Pack format](https://img.shields.io/badge/pack%20format-84%E2%80%9388-lightgrey)
+![Version](https://img.shields.io/badge/version-6.1.0-brightgreen)
+![Minecraft](https://img.shields.io/badge/Minecraft-26.1%20%E2%80%93%2026.3-blue)
+![Pack format](https://img.shields.io/badge/pack%20format-84%E2%80%9397.1-lightgrey)
 
 </div>
 
@@ -72,7 +72,10 @@ All leaves are **bushy**: extra leaf planes reach past the block edge for a full
 | Spruce | 3 | | Pale Oak | 3 |
 | Jungle | 3 | | Azalea | 5 |
 | Acacia | 5 | | Flowering Azalea | 5 |
-| Dark Oak | 6 | | | |
+| Dark Oak | 6 | | Orange Poplar ✧ | 2 |
+| Yellow Poplar ✧ | 2 | | Red Poplar ✧ | 2 |
+
+✧ Poplar leaves are in Minecraft 26.3 and later.
 
 ### 🍄 Mushrooms & nether plants
 
@@ -131,8 +134,8 @@ Every leaf model in the pack supports face culling. Faces pressed against other 
 
 | | |
 |:--|:--|
-| Minecraft | Java Edition 26.1 – 26.2 |
-| Pack format | 84 – 88 |
+| Minecraft | Java Edition 26.1 – 26.3 |
+| Pack format | 84 – 97.1 |
 | Optional mods | Continuity or OptiFine |
 | Culling mods | Supported, optimized for [More Culling](https://modrinth.com/mod/moreculling) |
 
