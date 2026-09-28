@@ -4,18 +4,7 @@ All notable changes to TchicX's Better Foliage. This project uses [semantic vers
 
 ## [6.1.1] – 2026-09-28
 
-New pack icon. Otherwise nothing changes in-game: the pack was checked block by block against Minecraft 26.1, 26.2 and 26.3.
-
-### Changed
-- New pack icon: an Oxeye Daisy from the pack, growing on a grass block.
-- Removed 99 files that were identical to Minecraft's own.
-- Merged duplicate leaf models and textures into one copy each.
-- Gave every JSON file the same layout.
-- Losslessly compressed all images, making them about 32% smaller.
-
-### Fixed
-- The 6.1.0 notes listed new Tall Grass and Vine textures, but they were identical to vanilla, so they've been removed.
-- README variant counts for Acacia, Cherry, Azalea and Flowering Azalea leaves: 3 each, not 5.
+- New pack icon.
 
 ## [6.1.0] – 2026-09-28
 
