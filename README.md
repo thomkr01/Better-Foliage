@@ -10,7 +10,7 @@
 
 </div>
 
-Hand-made plant variants that the game picks at random, so no two fields, gardens or forests look the same, all in the vanilla style. Leaves are bushy and optimized for culling.
+Hand-made plant variants that the game picks at random, so no two fields, gardens or forests look the same, all in the vanilla style. Leaves are bushy and optimized with culling.
 
 Numbers show how many random variants each block has.
 
@@ -70,20 +70,6 @@ All leaves are **bushy**, with extra leaf planes reaching past the block edge.
 ✦ Needs [Continuity](https://modrinth.com/mod/continuity). Without it, the block uses the pack's normal texture.
 
 ✧ Needs [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures). Without it, mooshrooms use the regular mushroom block.
-
-## 🧩 Recommended mods
-
-| Mod | What it does with this pack |
-|:--|:--|
-| [Continuity](https://modrinth.com/mod/continuity) | Connected sugar cane and glowing glow lichen ✦ |
-| [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Custom mushrooms on mooshrooms ✧ |
-| [More Culling](https://modrinth.com/mod/moreculling) | Faster leaves: set **Leaves Culling** to **Depth** (amount 2) to skip hidden faces inside trees while the canopy looks unchanged |
-
-## 📦 Installation
-
-1. Download the latest [release](../../releases) zip.
-2. Put it in your `.minecraft/resourcepacks` folder. `pack.mcmeta` must be at the top level of the zip.
-3. Enable **TchicX's Better Foliage** in **Options → Resource Packs**.
 
 ## 📜 Changelog & credits
 
