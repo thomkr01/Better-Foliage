@@ -1,7 +1,5 @@
 {
     "credit": "Made by TchicX for TchicX's Better Foliage",
     "parent": "block/crop",
-    "textures": {
-        "crop": "block/beetroots_stage3_3"
-    }
+    "textures": {"crop": "block/beetroots_stage3_3"}
 }

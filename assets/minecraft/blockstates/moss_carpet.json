@@ -1,19 +1,11 @@
 {
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "variants": {
-    "": [
-      {
-        "model": "minecraft:block/moss_carpet"
-      },
-      {
-        "model": "minecraft:block/moss_carpet_v1"
-      },
-      {
-        "model": "minecraft:block/moss_carpet_v2"
-      },
-      {
-        "model": "minecraft:block/moss_carpet_v3"
-      }
-    ]
-}
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "variants": {
+        "": [
+            {"model": "minecraft:block/moss_carpet"},
+            {"model": "minecraft:block/moss_carpet_v1"},
+            {"model": "minecraft:block/moss_carpet_v2"},
+            {"model": "minecraft:block/moss_carpet_v3"}
+        ]
+    }
 }

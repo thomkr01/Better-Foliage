@@ -2,11 +2,10 @@
     "credit": "Made by TchicX for TchicX's Better Foliage",
     "variants": {
         "": [
-		{ "model": "block/azalea_leaves_bushy", "weight": 2 },
-		{ "model": "block/azalea_leaves_bushy1", "weight": 1 },
-		{ "model": "block/azalea_leaves_bushy2", "weight": 1 },
-		{ "model": "block/azalea_leaves_bushy3", "weight": 1 },
-		{ "model": "block/azalea_leaves", "weight": 1 }
-		]
+            {"model": "block/azalea_leaves_bushy", "weight": 3},
+            {"model": "block/azalea_leaves_bushy2", "weight": 1},
+            {"model": "block/azalea_leaves_bushy", "weight": 1},
+            {"model": "block/azalea_leaves", "weight": 1}
+        ]
     }
 }

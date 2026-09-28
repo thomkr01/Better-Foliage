@@ -1,7 +1,0 @@
-{
-    "credit": "Made by TchicX for TchicX's Better Foliage",
-    "parent": "block/leaves",
-    "textures": {
-        "all": "block/jungle_leaves"
-    }
-}

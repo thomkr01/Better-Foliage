@@ -1,10 +1,10 @@
 {
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "variants": {
-    "": [
-			{ "model": "block/orange_tulip", "weight":2 },
-			{ "model": "block/orange_tulip_small", "weight":1 },
-			{ "model": "block/orange_tulip_double", "weight":1 }
-		]
-  }
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "variants": {
+        "": [
+            {"model": "block/orange_tulip", "weight": 2},
+            {"model": "block/orange_tulip_small", "weight": 1},
+            {"model": "block/orange_tulip_double", "weight": 1}
+        ]
+    }
 }

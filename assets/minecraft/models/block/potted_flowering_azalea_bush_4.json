@@ -1,8 +1,8 @@
 {
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "parent": "minecraft:block/template_potted_azalea_bush",
-  "textures": {
-    "top": "minecraft:block/potted_flowering_azalea_bush_top_4",
-    "side": "minecraft:block/potted_flowering_azalea_bush_side_4"
-  }
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "parent": "minecraft:block/template_potted_azalea_bush",
+    "textures": {
+        "top": "minecraft:block/potted_flowering_azalea_bush_top_4",
+        "side": "minecraft:block/potted_flowering_azalea_bush_side_4"
+    }
 }

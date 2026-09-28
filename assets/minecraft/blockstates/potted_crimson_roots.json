@@ -1,11 +1,11 @@
 {
-	"credit": "Made by TchicX for TchicX's Better Foliage",
-	"variants": {
-		"": [
-			{ "model": "block/potted_crimson_roots_1" },
-			{ "model": "block/potted_crimson_roots_2" },
-			{ "model": "block/potted_crimson_roots_3" },
-			{ "model": "block/potted_crimson_roots_4" }
-		]
-	}
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "variants": {
+        "": [
+            {"model": "block/potted_crimson_roots_1"},
+            {"model": "block/potted_crimson_roots_2"},
+            {"model": "block/potted_crimson_roots_3"},
+            {"model": "block/potted_crimson_roots_4"}
+        ]
+    }
 }

@@ -2,11 +2,8 @@
     "credit": "Made by TchicX for TchicX's Better Foliage",
     "variants": {
         "": [
-		{ "model": "block/orange_poplar_leaves_bushy", "weight": 2 },
-		{ "model": "block/orange_poplar_leaves_bushy1", "weight": 1 },
-		{ "model": "block/orange_poplar_leaves_bushy2", "weight": 1 },
-		{ "model": "block/orange_poplar_leaves_bushy3", "weight": 1 },
-		{ "model": "block/orange_poplar_leaves", "weight": 1 }
-		]
+            {"model": "block/orange_poplar_leaves_bushy", "weight": 5},
+            {"model": "block/orange_poplar_leaves", "weight": 1}
+        ]
     }
 }

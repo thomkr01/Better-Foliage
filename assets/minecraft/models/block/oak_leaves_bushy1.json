@@ -1,8 +1,5 @@
 {
     "credit": "Made by TchicX for TchicX's Better Foliage",
     "parent": "block/leaves_bushy1",
-    "textures": {
-        "all": "block/oak_leaves",
-        "bushy": "block/oak_leaves_bushy"
-    }
+    "textures": {"all": "block/oak_leaves", "bushy": "block/oak_leaves_bushy"}
 }

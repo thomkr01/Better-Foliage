@@ -1,7 +1,0 @@
-{
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "parent": "minecraft:block/flower_pot_cross",
-  "textures": {
-    "plant": "minecraft:block/pink_tulip"
-  }
-}

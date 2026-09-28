@@ -1,7 +1,5 @@
 {
     "credit": "Made by TchicX for TchicX's Better Foliage",
     "parent": "minecraft:block/cube_all",
-    "textures": {
-        "all": "minecraft:block/red_poplar_leaves"
-    }
+    "textures": {"all": "minecraft:block/red_poplar_leaves"}
 }

@@ -1,12 +1,11 @@
 {
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "variants": {
-    "": [
-			{ "model": "block/poppy", "weight":2 },
-			{ "model": "block/poppy_small", "weight":1 },
-			{ "model": "block/poppy_tiny", "weight":1 },
-			{ "model": "block/poppy_tiny2", "weight":1 }
-		]
-	
-  }
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "variants": {
+        "": [
+            {"model": "block/poppy", "weight": 2},
+            {"model": "block/poppy_small", "weight": 1},
+            {"model": "block/poppy_tiny", "weight": 1},
+            {"model": "block/poppy_tiny2", "weight": 1}
+        ]
+    }
 }

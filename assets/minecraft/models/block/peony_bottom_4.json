@@ -1,7 +1,5 @@
 {
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "parent": "minecraft:block/cross",
-  "textures": {
-    "cross": "minecraft:block/peony_bottom_4"
-  }
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "parent": "minecraft:block/cross",
+    "textures": {"cross": "minecraft:block/peony_bottom_4"}
 }

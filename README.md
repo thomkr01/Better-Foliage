@@ -4,7 +4,7 @@
 
 **Varied plant life for Minecraft Java Edition**
 
-![Version](https://img.shields.io/badge/version-6.1.0-brightgreen)
+![Version](https://img.shields.io/badge/version-6.1.1-brightgreen)
 ![Minecraft](https://img.shields.io/badge/Minecraft-26.1%20%E2%80%93%2026.3-blue)
 ![Pack format](https://img.shields.io/badge/pack%20format-84%E2%80%9397.1-lightgrey)
 
@@ -36,11 +36,11 @@ All leaves are **bushy**, with extra leaf planes reaching past the block edge.
 
 | Leaves | Variants | | Leaves | Variants |
 |:--|:--:|:-:|:--|:--:|
-| Oak | 3 | | Cherry | 5 |
+| Oak | 3 | | Cherry | 3 |
 | Birch | 3 | | Pale Oak | 3 |
-| Spruce | 3 | | Azalea | 5 |
-| Jungle | 3 | | Flowering Azalea | 5 |
-| Acacia | 5 | | Orange Poplar (26.3+) | 2 |
+| Spruce | 3 | | Azalea | 3 |
+| Jungle | 3 | | Flowering Azalea | 3 |
+| Acacia | 3 | | Orange Poplar (26.3+) | 2 |
 | Dark Oak | 6 | | Yellow Poplar (26.3+) | 2 |
 | Mangrove | 3 | | Red Poplar (26.3+) | 2 |
 
@@ -59,13 +59,12 @@ All leaves are **bushy**, with extra leaf planes reaching past the block edge.
 | Block | Variants | | Block | Variants |
 |:--|:--:|:-:|:--|:--:|
 | Short Grass | 3 | | Red Mushroom | 3 |
-| Tall Grass | New texture | | Brown Mushroom | 3 |
-| Vines | New texture | | Mooshroom mushrooms ✧ | Match the mushrooms |
-| Bush | 3 | | Crimson Fungus | 3 |
-| Dead Bush | 11 | | Warped Fungus | 3 |
-| Firefly Bush | 10, animated glow | | Crimson Roots | 3 (4 potted) |
-| Moss Carpet | 4 | | Warped Roots | 3 (4 potted) |
-| Glow Lichen ✦ | 20, glowing details | | Hanging Roots | 18 |
+| Bush | 3 | | Brown Mushroom | 3 |
+| Dead Bush | 11 | | Mooshroom mushrooms ✧ | Match the mushrooms |
+| Firefly Bush | 10, animated glow | | Crimson Fungus | 3 |
+| Moss Carpet | 4 | | Warped Fungus | 3 |
+| Glow Lichen ✦ | 20, glowing details | | Crimson Roots | 3 (4 potted) |
+| Hanging Roots | 18 | | Warped Roots | 3 (4 potted) |
 
 ✦ Needs [Continuity](https://modrinth.com/mod/continuity). Without it, the block uses the pack's normal texture.
 

@@ -1,7 +1,5 @@
 {
-	"credit": "Made by TchicX for TchicX's Better Foliage",
-	"parent": "block/cross",
-	"textures": {
-		"cross": "block/variated/dead_bush/0"
-	}
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "parent": "block/cross",
+    "textures": {"cross": "block/variated/dead_bush/0"}
 }

@@ -1,11 +1,11 @@
 {
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "variants": {
-    "": [
-			{ "model": "block/golden_dandelion", "weight":2 },
-			{ "model": "block/golden_dandelion_small", "weight":1 },
-			{ "model": "block/golden_dandelion_tiny", "weight":1 },
-			{ "model": "block/golden_dandelion_tiny2", "weight":1 }
-		]
-  }
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "variants": {
+        "": [
+            {"model": "block/golden_dandelion", "weight": 2},
+            {"model": "block/golden_dandelion_small", "weight": 1},
+            {"model": "block/golden_dandelion_tiny", "weight": 1},
+            {"model": "block/golden_dandelion_tiny2", "weight": 1}
+        ]
+    }
 }

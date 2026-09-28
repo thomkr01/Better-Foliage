@@ -1,7 +1,0 @@
-{
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "parent": "minecraft:block/cross",
-  "textures": {
-    "cross": "minecraft:block/red_tulip"
-  }
-}

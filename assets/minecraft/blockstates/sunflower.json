@@ -1,15 +1,11 @@
 {
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "variants": {
-    "half=lower": {
-      "model": "minecraft:block/sunflower_bottom"
-    },
-    "half=upper": 
-			[
-			{ "model": "block/sunflower_top", "weight":2 },
-			{ "model": "block/sunflower_top_medium", "weight":3 },
-			{ "model": "block/sunflower_top_large", "weight":1 }
-			]
-		
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "variants": {
+        "half=lower": {"model": "minecraft:block/sunflower_bottom"},
+        "half=upper": [
+            {"model": "block/sunflower_top", "weight": 2},
+            {"model": "block/sunflower_top_medium", "weight": 3},
+            {"model": "block/sunflower_top_large", "weight": 1}
+        ]
     }
 }

@@ -1,13 +1,13 @@
 {
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "variants": {
-		"": [
-			{ "model": "block/flowering_azalea" },
-			{ "model": "block/flowering_azalea_2" },
-			{ "model": "block/flowering_azalea_3" },
-			{ "model": "block/flowering_azalea_4" },
-			{ "model": "block/flowering_azalea_5" },
-			{ "model": "block/flowering_azalea_6" }
-		]
-	}
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "variants": {
+        "": [
+            {"model": "block/flowering_azalea"},
+            {"model": "block/flowering_azalea_2"},
+            {"model": "block/flowering_azalea_3"},
+            {"model": "block/flowering_azalea_4"},
+            {"model": "block/flowering_azalea_5"},
+            {"model": "block/flowering_azalea_6"}
+        ]
+    }
 }

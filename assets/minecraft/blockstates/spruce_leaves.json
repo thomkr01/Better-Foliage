@@ -2,9 +2,9 @@
     "credit": "Made by TchicX for TchicX's Better Foliage",
     "variants": {
         "": [
-		{ "model": "block/spruce_leaves_bushy", "weight": 2 },
-		{ "model": "block/spruce_leaves_bushy1", "weight": 2 },
-		{ "model": "block/spruce_leaves", "weight": 1 }
-		]
+            {"model": "block/spruce_leaves_bushy", "weight": 2},
+            {"model": "block/spruce_leaves_bushy1", "weight": 2},
+            {"model": "block/spruce_leaves", "weight": 1}
+        ]
     }
 }

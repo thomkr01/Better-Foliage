@@ -1,8 +1,5 @@
 {
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "parent": "minecraft:block/template_azalea",
-  "textures": {
-    "top": "minecraft:block/flowering_azalea_top_5",
-    "side": "minecraft:block/flowering_azalea_side_5"
-  }
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "parent": "minecraft:block/template_azalea",
+    "textures": {"top": "minecraft:block/flowering_azalea_top_5", "side": "minecraft:block/flowering_azalea_side_5"}
 }

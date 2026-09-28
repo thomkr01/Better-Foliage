@@ -1,6 +1,4 @@
 {
     "credit": "Made by TchicX for TchicX's Better Foliage",
-    "variants": {
-        "": { "model": "block/flower_pot_golden_dandelion" }
-    }
+    "variants": {"": {"model": "block/flower_pot_golden_dandelion"}}
 }

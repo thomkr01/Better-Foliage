@@ -1,7 +1,5 @@
 {
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "parent": "minecraft:block/tall_crop",
-  "textures": {
-    "crop": "minecraft:block/potatoes_stage3b"
-  }
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "parent": "minecraft:block/tall_crop",
+    "textures": {"crop": "minecraft:block/potatoes_stage3b"}
 }

@@ -1,8 +1,0 @@
-{
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "parent": "minecraft:block/template_azalea",
-  "textures": {
-    "top": "minecraft:block/azalea_top",
-    "side": "minecraft:block/azalea_side"
-  }
-}

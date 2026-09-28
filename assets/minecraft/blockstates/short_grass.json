@@ -2,9 +2,9 @@
     "credit": "Made by TchicX for TchicX's Better Foliage",
     "variants": {
         "": [
-		{ "model": "minecraft:block/short_grass", "weight": 2 },
-		{ "model": "minecraft:block/short_grass1", "weight": 1 },
-		{ "model": "minecraft:block/short_grass2", "weight": 1 }
-		]
+            {"model": "minecraft:block/short_grass", "weight": 2},
+            {"model": "minecraft:block/short_grass1", "weight": 1},
+            {"model": "minecraft:block/short_grass2", "weight": 1}
+        ]
     }
 }

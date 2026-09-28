@@ -1,7 +1,5 @@
 {
     "credit": "Made by TchicX for TchicX's Better Foliage",
     "parent": "block/cross",
-    "textures": {
-        "cross": "block/allium_tiny3"
-    }
+    "textures": {"cross": "block/allium_tiny3"}
 }

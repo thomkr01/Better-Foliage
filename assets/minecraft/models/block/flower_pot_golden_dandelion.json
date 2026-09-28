@@ -1,7 +1,5 @@
 {
     "credit": "Made by TchicX for TchicX's Better Foliage",
     "parent": "block/flower_pot_cross",
-    "textures": {
-        "plant": "block/golden_dandelion_flower_pot"
-    }
+    "textures": {"plant": "block/golden_dandelion_flower_pot"}
 }

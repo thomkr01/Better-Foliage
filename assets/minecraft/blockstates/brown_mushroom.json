@@ -1,11 +1,10 @@
 {
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "variants": {
-    "": [
-			{ "model": "block/brown_mushroom", "weight":3 },
-			{ "model": "block/brown_mushroom_cluster", "weight":2 },
-			{ "model": "block/brown_mushroom_cluster_tiny", "weight":1 }
-		]
-  }
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "variants": {
+        "": [
+            {"model": "block/brown_mushroom", "weight": 3},
+            {"model": "block/brown_mushroom_cluster", "weight": 2},
+            {"model": "block/brown_mushroom_cluster_tiny", "weight": 1}
+        ]
+    }
 }
-

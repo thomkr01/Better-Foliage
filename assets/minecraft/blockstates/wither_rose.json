@@ -1,11 +1,10 @@
 {
-  "credit": "Made by TchicX for TchicX's Better Foliage",
-  "variants": {
-    "": [
-			{ "model": "block/wither_rose", "weight":2 },
-			{ "model": "block/wither_rose_small", "weight":1 },
-			{ "model": "block/wither_rose_tiny", "weight":1 }
-		]
-  }
+    "credit": "Made by TchicX for TchicX's Better Foliage",
+    "variants": {
+        "": [
+            {"model": "block/wither_rose", "weight": 2},
+            {"model": "block/wither_rose_small", "weight": 1},
+            {"model": "block/wither_rose_tiny", "weight": 1}
+        ]
+    }
 }
-
