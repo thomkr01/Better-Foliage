@@ -4,9 +4,10 @@ All notable changes to TchicX's Better Foliage. This project uses [semantic vers
 
 ## [6.1.1] – 2026-09-28
 
-Nothing changes in-game. The pack was checked block by block against Minecraft 26.1, 26.2 and 26.3.
+New pack icon. Otherwise nothing changes in-game: the pack was checked block by block against Minecraft 26.1, 26.2 and 26.3.
 
 ### Changed
+- New pack icon: an Oxeye Daisy from the pack, growing on a grass block.
 - Removed 99 files that were identical to Minecraft's own.
 - Merged duplicate leaf models and textures into one copy each.
 - Gave every JSON file the same layout.
