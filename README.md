@@ -77,6 +77,14 @@ All leaves are **bushy**: extra leaf planes reach past the block edge for a full
 
 ✧ Poplar leaves are in Minecraft 26.3 and later.
 
+### 🌱 Grass & vines
+
+| Block | Variants | Notes |
+|:--|:--:|:--|
+| Short Grass | 3 | |
+| Tall Grass | 1 | New texture |
+| Vines | 1 | New texture |
+
 ### 🍄 Mushrooms & nether plants
 
 | Block | Variants |

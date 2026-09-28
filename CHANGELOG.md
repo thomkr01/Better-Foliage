@@ -6,6 +6,8 @@ All notable changes to TchicX's Better Foliage. This project uses [semantic vers
 
 ### Added
 - Bushy leaves for Orange, Yellow and Red Poplar leaves (Minecraft 26.3).
+- Short Grass is back, with 3 random variants.
+- New textures for Tall Grass and Vines.
 
 ### Changed
 - Updated for Minecraft 26.1 – 26.3 (pack format 84–97.1).
