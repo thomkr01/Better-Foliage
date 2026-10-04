@@ -45,7 +45,7 @@ Minecraft Java resource pack by TchicX: random plant variants, bushy leaves. Pla
 1. Bump the version in `pack.mcmeta` (`§bvX.Y.Z`) and the README badge.
 2. Add a `CHANGELOG.md` entry. TchicX prefers short entries.
 3. Build the zip from only `pack.mcmeta`, `pack.png` and `assets`: `zip -qrX release/TchicXs_Better_Foliage_vX.Y.Z.zip pack.mcmeta pack.png assets`. `*.zip` is gitignored.
-4. Push to `main`, check the zip contains `assets/cullleaves/options/options.json`, then publish the GitHub release `vX.Y.Z` with the zip attached.
+4. Check the zip contains `assets/cullleaves/options/options.json`, push to `main`, then send TchicX the zip and paste-ready release notes. Claude can't create GitHub releases or push tags (the API refuses with 403, confirmed 2026-10-04), so TchicX publishes the release.
 
 ## Verifying
 
