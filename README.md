@@ -4,7 +4,7 @@
 
 **Varied plant life for Minecraft Java Edition**
 
-![Version](https://img.shields.io/badge/version-6.1.1-brightgreen)
+![Version](https://img.shields.io/badge/version-6.2.0-brightgreen)
 ![Minecraft](https://img.shields.io/badge/Minecraft-26.1%20%E2%80%93%2026.3-blue)
 ![Pack format](https://img.shields.io/badge/pack%20format-84%E2%80%9397.1-lightgrey)
 
@@ -32,7 +32,7 @@ Potted flowers use matching textures.
 
 ## 🌳 Trees
 
-All leaves are **bushy**, with extra leaf planes reaching past the block edge.
+All leaves are **bushy**, with extra leaf planes reaching past the block edge. With [Cull Leaves](https://modrinth.com/mod/cull-leaves), leaves hidden inside a tree aren't drawn, so forests run faster.
 
 | Leaves | Variants | | Leaves | Variants |
 |:--|:--:|:-:|:--|:--:|

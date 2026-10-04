@@ -6,7 +6,7 @@ Minecraft Java resource pack by TchicX: random plant variants, bushy leaves. Pla
 
 ## Current state
 
-- Version: **6.1.1** (in `pack.mcmeta` description, README badge, `CHANGELOG.md`)
+- Version: **6.2.0** (in `pack.mcmeta` description, README badge, `CHANGELOG.md`)
 - Minecraft 26.1 – 26.3, pack format `min_format` 84, `max_format` 97.1
 - Poplar leaves only exist from 26.3
 
@@ -45,7 +45,7 @@ Minecraft Java resource pack by TchicX: random plant variants, bushy leaves. Pla
 1. Bump the version in `pack.mcmeta` (`§bvX.Y.Z`) and the README badge.
 2. Add a `CHANGELOG.md` entry. TchicX prefers short entries.
 3. Build the zip from only `pack.mcmeta`, `pack.png` and `assets`: `zip -qrX release/TchicXs_Better_Foliage_vX.Y.Z.zip pack.mcmeta pack.png assets`. `*.zip` is gitignored.
-4. Push to `main`, send TchicX the zip and paste-ready release notes. Claude can't create GitHub releases or push tags, so TchicX publishes the release.
+4. Push to `main`, check the zip contains `assets/cullleaves/options/options.json`, then publish the GitHub release `vX.Y.Z` with the zip attached.
 
 ## Verifying
 
@@ -56,5 +56,7 @@ Minecraft Java resource pack by TchicX: random plant variants, bushy leaves. Pla
 ## Background
 
 - Many textures match fWhip's fWoliage pack. When TchicX brings a new fWhip version, compare pixel by pixel and only take what's actually different.
-- Leaf culling works with More Culling (Leaves Culling: Depth, amount 2). Every leaf cube has `cullface`.
-- Leaf culling also works with Cull Leaves, set up like Motschen's Better Leaves: `assets/cullleaves/options/options.json` forces `forceLeafCulling` (no faces between two leaf blocks) and `forceHideInnerLeaves` (a leaf block with leaves or solid full faces on all six sides isn't drawn at all, overhangs included). It only does anything when the player has Cull Leaves installed. With both mods, Cull Leaves culls every leaf-to-leaf face, so More Culling's Depth setting no longer shows.
+- **Leaf culling setup (TchicX's choice, 2026-10-04):** Cull Leaves + More Culling, with More Culling's Leaves Culling set to **Default**. More Culling stays for its other culling (signs, item frames and so on). Every leaf cube has `cullface`, so the pack also works with More Culling alone.
+- **Cull Leaves**: `assets/cullleaves/options/options.json` forces `forceLeafCulling` (no faces between two leaf blocks) and `forceHideInnerLeaves` (a leaf block with leaves or solid full faces on all six sides isn't drawn at all, overhangs included), the same settings Motschen's Better Leaves ships. It only does anything when the player has Cull Leaves installed. Must stay in the release zip.
+- **Why not More Culling alone:** its leaf modes only cull cube faces and never skip a whole block, so they can't remove the overhangs of buried leaves. Its closest mode (Fast) left 13% more quads and 19% more surface than Cull Leaves in an oak forest simulation (dark oak: +33% / +45%). Depth mode on top of Cull Leaves adds 1–3% (it draws leaf faces against logs that have air behind them), hence Default.
+- **Compared with Better Leaves 9.6** (same simulation): this pack draws 6–13% fewer leaf quads and 1–8% less leaf surface, with or without culling mods. Averages per leaf: 9.2 quads (20% of leaves are plain cubes) vs 10.

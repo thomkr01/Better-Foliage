@@ -2,6 +2,11 @@
 
 All notable changes to TchicX's Better Foliage. This project uses [semantic versioning](https://semver.org/).
 
+## [6.2.0] – 2026-10-04
+
+### Added
+- Cull Leaves support: with the Cull Leaves mod, leaves buried inside a tree aren't drawn and leaves touching other leaves hide their shared faces. The pack turns these settings on automatically, so forests run faster. Without the mod nothing changes.
+
 ## [6.1.1] – 2026-09-28
 
 - New pack icon.
