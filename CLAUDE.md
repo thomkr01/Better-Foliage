@@ -15,6 +15,7 @@ Minecraft Java resource pack by TchicX: random plant variants, bushy leaves. Pla
 - `pack.mcmeta`, `pack.png` (320×320 pixel-art oxeye daisy on grass, built from `oxeye_daisy_small.png` on a 20×20 grid scaled ×16)
 - `assets/minecraft/blockstates`, `models/block`, `models/item`, `textures/block`, `textures/entity/cow`
 - `assets/minecraft/optifine/`: Continuity-format files (sugar cane connected textures, `emissive.properties` for glow lichen `_e` textures)
+- `assets/cullleaves/options/options.json`: settings read by the Cull Leaves mod (see Background). Not a model or blockstate, so no credit label.
 - `README.md`, `CHANGELOG.md` (not included in the release zip)
 
 ## Rules
@@ -56,3 +57,4 @@ Minecraft Java resource pack by TchicX: random plant variants, bushy leaves. Pla
 
 - Many textures match fWhip's fWoliage pack. When TchicX brings a new fWhip version, compare pixel by pixel and only take what's actually different.
 - Leaf culling works with More Culling (Leaves Culling: Depth, amount 2). Every leaf cube has `cullface`.
+- Leaf culling also works with Cull Leaves, set up like Motschen's Better Leaves: `assets/cullleaves/options/options.json` forces `forceLeafCulling` (no faces between two leaf blocks) and `forceHideInnerLeaves` (a leaf block with leaves or solid full faces on all six sides isn't drawn at all, overhangs included). It only does anything when the player has Cull Leaves installed. With both mods, Cull Leaves culls every leaf-to-leaf face, so More Culling's Depth setting no longer shows.
