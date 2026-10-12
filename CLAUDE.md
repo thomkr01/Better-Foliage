@@ -31,6 +31,7 @@ Minecraft Java resource pack by TchicX: random plant variants, bushy leaves. Pla
 - `models/block/leaves_bushy.json` keeps its fallback `"bushy": "block/leaves_big_oak_bl"`, a texture that doesn't exist, so a leaf model that forgets `"bushy"` shows purple-and-black.
 - 17 textures identical to vanilla stay (acacia, azalea, birch, cherry, jungle, mangrove, oak, pale oak and the three poplar leaves, blue orchid, oxeye daisy, red and brown mushroom, crimson and warped fungus). Vanilla 26.x ships `.png.mcmeta` mipmap settings for them, and Minecraft only reads a `.mcmeta` from the same pack as the `.png`. Removing our copies would switch vanilla's settings on and change how they look at a distance. `oxeye_daisy.png` also differs in hidden transparent-pixel colours.
 - Poplar `.png.mcmeta` files (`dark_cutout`) and plain poplar models stay.
+- Flower colours follow vanilla (TchicX, 2026-10-12): rose bush variants 2–6 use vanilla's shade balance, the large sunflower uses the medium/vanilla yellows, and allium uses vanilla's purples instead of magenta. Peony and lilac variants were already close, so they were left alone.
 - `textures/entity/cow/red_mushroom.png` and `brown_mushroom.png` are for the mushrooms on a mooshroom's back (read by Entity Texture Features).
 
 ## README style
