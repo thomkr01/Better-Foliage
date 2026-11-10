@@ -8,3 +8,4 @@ desktop.ini
 
 # Built pack zips (attach these to releases instead)
 *.zip
+graphify-out/
